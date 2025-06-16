@@ -54,3 +54,23 @@ This task provides a comprehensive approach to securing cloud infrastructure by 
 
 Together, these implementations form a strong foundation for secure cloud operations, meeting both industry best practices and compliance requirements. By applying these measures, organizations can ensure the safety of sensitive information and maintain trust in their cloud systems.
 
+**OUTPUT**
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/d65aed6b-74ed-43cd-8dd8-0e57772263c1" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/2287ac89-2230-417a-95f5-836eba4db686" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/fb44aa04-2775-46a4-91f6-4acfdaace77d" />
+
+<img width="1438" alt="Image" src="https://github.com/user-attachments/assets/55759186-05c4-4bbd-a143-0b4a05f8e9dc" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/eb9b55c8-fedf-4b4b-b356-7cfb709b9b77" />
+
+<img width="826" alt="Image" src="https://github.com/user-attachments/assets/c93547e1-d463-4cc0-9ec0-2720c086c99b" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b8bb594b-6a99-451f-91ee-121875d89b55" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/26515703-21be-4301-9b3a-beb47102ec10" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/10800339-9ef9-4bf8-a4cb-7977bb7fac53" />
+
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/e91b8963-9c31-49b3-9104-73ff9c17fdff" />
