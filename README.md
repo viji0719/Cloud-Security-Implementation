@@ -65,8 +65,6 @@ Together, these implementations form a strong foundation for secure cloud operat
 
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/eb9b55c8-fedf-4b4b-b356-7cfb709b9b77" />
 
-<img width="826" alt="Image" src="https://github.com/user-attachments/assets/c93547e1-d463-4cc0-9ec0-2720c086c99b" />
-
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b8bb594b-6a99-451f-91ee-121875d89b55" />
 
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/26515703-21be-4301-9b3a-beb47102ec10" />
